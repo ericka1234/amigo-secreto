@@ -24,10 +24,10 @@ JavaScript
 
 ## 🖼️ Capturas de Pantalla
 ### 1️⃣ Agregar nombres
-![Agregar Amigos](image-1.png)
+![Agregar Amigos](assets/agregar-nombres.JPG)
 
 ### 2️⃣ Sorteo del amigo secreto
-![Sorteo del Amigo Secreto](image-2.png)
+![Sorteo del Amigo Secreto](assets/image-2.JPG)
 
 
 ## 🎮 Cómo usarlo
